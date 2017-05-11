@@ -1,0 +1,16 @@
+PODS:
+  - HHStringAttributes (0.1.0)
+
+DEPENDENCIES:
+  - HHStringAttributes (from `../`)
+
+EXTERNAL SOURCES:
+  HHStringAttributes:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HHStringAttributes: 70fffa40ec6a140f72ce2f21aa2e78f254965621
+
+PODFILE CHECKSUM: b7eb7dd74524f68362bcd542fd6496b69f0746a0
+
+COCOAPODS: 1.2.1

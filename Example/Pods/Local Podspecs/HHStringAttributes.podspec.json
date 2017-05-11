@@ -1,0 +1,22 @@
+{
+  "name": "HHStringAttributes",
+  "version": "0.1.0",
+  "summary": "A short description of HHStringAttributes.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/何源/HHStringAttributes",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "何源": "heyuan@boohee.com"
+  },
+  "source": {
+    "git": "https://github.com/何源/HHStringAttributes.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HHStringAttributes/Classes/**/*"
+}

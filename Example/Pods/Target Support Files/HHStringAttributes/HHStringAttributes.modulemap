@@ -1,0 +1,6 @@
+framework module HHStringAttributes {
+  umbrella header "HHStringAttributes-umbrella.h"
+
+  export *
+  module * { export * }
+}
