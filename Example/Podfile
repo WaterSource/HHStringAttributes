@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HHStringAttributes_Example' do
+  pod 'HHStringAttributes', :path => '../'
+
+  target 'HHStringAttributes_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
