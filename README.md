@@ -22,7 +22,7 @@ pod "HHStringAttributes"
 
 ## Author
 
-何源, heyuan@boohee.com
+何源, jameshy@yeah.net
 
 ## License
 
